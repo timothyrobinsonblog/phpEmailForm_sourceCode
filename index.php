@@ -89,7 +89,7 @@
           <span class="circle one"></span>
           <span class="circle two"></span>
 
-          <form action="" method="post" autocomplete="off">
+          <form action="index.php" method="post" autocomplete="off">
             <h3 class="title">Contact us</h3>
             <div class="input-container">
               <input type="text" name="name" class="input" />
