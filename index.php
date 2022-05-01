@@ -15,7 +15,7 @@
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
     // More headers
-    $headers .= 'From: bravecoderofficial@gmail.com';
+    $headers .= 'From: testing1122332021@outlook.com';
 
     $mail = mail($to,$subject,$message,$headers);
 
