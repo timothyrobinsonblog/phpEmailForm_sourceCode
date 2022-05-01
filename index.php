@@ -5,7 +5,7 @@
     $phone = $_POST["phone"];
     $message = $_POST["message"];
 
-    $to = $testing1122332021@outlook.com;
+    $to = "testing1122332021@outlook.com";
     $subject = $message;
 
     $message = "Name: {$username} Email: {$email} Phone: {$phone}  Message: " . $message;
